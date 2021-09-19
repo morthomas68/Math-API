@@ -1,0 +1,15 @@
+{
+  "name": "math-api",
+  "version": "1.0.0",
+  "description": "Math API",
+  "main": "MathAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "author": "Thomas Morin",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
+}
